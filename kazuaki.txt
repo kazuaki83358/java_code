@@ -1,0 +1,1 @@
+this is my practice for wiriting a txt file from java
