@@ -6,7 +6,7 @@ public class hacker_rank_string_introduction {
         String B = nr.nextLine();
         int sum = A.length()+B.length();
         System.out.println(sum);
-        if (A.length()>B.length()) {
+        if (A.compareTo(B)>0) {
             System.out.println("Yes");
         }else{
             System.out.println("No");
